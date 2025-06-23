@@ -15,19 +15,19 @@ This project aims to predict the survival chances of passengers on the Titanic u
 3. **Data Visualization**  
    - Correlation heatmaps, survival distributions, and feature importance.  
 
-## 🚀 Run on Google Colab
+## Run on Google Colab
 
 Click the link below to open the project in Google Colab:  
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1pfr8oM2EqI6eArtEwbMvJsM-zbFRoZSx)  
 
-## 📂 Dataset
+## Dataset
 
 The dataset can be downloaded from Kaggle:  
 
 🔗 [Titanic Dataset](https://www.kaggle.com/c/titanic/data)
 
-## 📦 Required Libraries
+## Required Libraries
 
 Make sure to install the required libraries in Colab before running the code:
 
@@ -35,18 +35,12 @@ Make sure to install the required libraries in Colab before running the code:
 !pip install pandas numpy matplotlib seaborn scikit-learn xgboost scipy imblearn
 ```
 
-## 🔧 Steps to Run in Colab
+## Steps to Run in Colab
 
 1. Open the Colab notebook using the **Open in Colab** button above.  
 2. Install dependencies using the command above.  
 3. Run each code cell step by step to explore, train, and evaluate models.  
 
-## 🎯 Future Enhancements
-
-- **Deep Learning Integration:** Experiment with Neural Networks for survival prediction.  
-- **Web Deployment:** Create an interactive web-based predictor using Flask or Streamlit.  
-- **Hyperparameter Tuning:** Optimize model performance using GridSearchCV.  
-
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Feel free to fork the repository and submit a pull request.
