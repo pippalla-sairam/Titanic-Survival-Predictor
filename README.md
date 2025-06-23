@@ -25,7 +25,7 @@ Click the link below to open the project in Google Colab:
 
 The dataset can be downloaded from Kaggle:  
 
-🔗 [Titanic Dataset](https://www.kaggle.com/c/titanic/data)
+[Titanic Dataset](https://www.kaggle.com/c/titanic/data)
 
 ## Required Libraries
 
